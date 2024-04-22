@@ -4,6 +4,7 @@
  **git clone https://github.com/Nanda-Vishvanathan/secr-ai-react.git**
 
 To, install the dependencies from React, Typescript and Tailwind CSS, please follow the following:
+
 **npm install typescript**
 **npm install -D tailwindcss**
 
