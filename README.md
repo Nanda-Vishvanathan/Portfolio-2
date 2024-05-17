@@ -1,4 +1,3 @@
-# SECR.AI - Take home assessment
 # secr-ai-react
  To clone the project use the following command:
  
